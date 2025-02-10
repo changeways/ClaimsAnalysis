@@ -24,6 +24,7 @@ weighted avg       0.94      0.93      0.90     17578
 It also identified the importance of the key features
 
      Feature	Importance
+
 16      subscription_length_group_11-12   0.089228
  5      subscription_length_group_0-1     0.078053
  2      age_group_34-50                   0.072818
