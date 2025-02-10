@@ -23,14 +23,15 @@ weighted avg       0.94      0.93      0.90     17578
 
 It also identified the importance of the key features
 
-Feature	Importance
-16  subscription_length_group_11-12	   0.089228
- 5	subscription_length_group_0-1	     0.078053
- 2	age_group_34-50	                   0.072818
-36	vehicle_age_group_1-2	             0.054169
-35	vehicle_age_group_0-1	             0.050215
-37	vehicle_age_group_2-3	             0.048432
-15	subscription_length_group_10-11	   0.044190
+     Feature	Importance
+16      subscription_length_group_11-12   0.089228
+ 5      subscription_length_group_0-1     0.078053
+ 2      age_group_34-50                   0.072818
+36      vehicle_age_group_1-2	            0.054169
+35      vehicle_age_group_0-1	            0.050215
+37      vehicle_age_group_2-3	            0.048432
+15      subscription_length_group_10-11   0.044190
+
 
 This highlighed that the significance of the subscription, the age of the insured and the age of the vechile
 
